@@ -1,0 +1,901 @@
+Device EUI/Group,Gateway ID,Frequency,Datarate,RSSI/SNR,Size,Fcnt,Type,Time,Details
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -/-,0,2997,DnUnc,2026-06-29T16:19:19+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1052740478
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2997
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 612a28b6"
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -100/7.8,3,2957,UpCnf,2026-06-29T16:19:18+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1051740478
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2957
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 7.8
+RSSI: -100
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: 629202df"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2996,DnUnc,2026-06-29T16:19:17+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1051322583
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2996
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: b9871e53"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -100/9.2,34,2956,UpCnf,2026-06-29T16:19:17+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1050322583
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2956
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 9.2
+RSSI: -100
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: fc69abd5"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2995,DnUnc,2026-06-29T16:19:15+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1049531450
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2995
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: efe51e86"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -100/8.8,3,2955,UpCnf,2026-06-29T16:19:15+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1048531450
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2955
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 8.8
+RSSI: -100
+Power: -
+Payload(b64): BAAB
+Payload(hex): 040001
+JSON: {""gpio_in_2"":1}
+MIC: 1cc97f60"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2994,DnUnc,2026-06-29T16:18:55+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1029260784
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2994
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 60854e20"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -100/9.0,3,2954,UpCnf,2026-06-29T16:18:55+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1028260784
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2954
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 9.0
+RSSI: -100
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: 2767bb39"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2993,DnUnc,2026-06-29T16:18:54+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1028154433
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2993
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 062c53c2"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -99/9.2,3,2954,UpCnf,2026-06-29T16:18:54+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1027154433
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2954
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 9.2
+RSSI: -99
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: 2767bb39"
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -/-,0,2992,DnUnc,2026-06-29T16:18:52+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1026375607
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2992
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 856e75bc"
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -99/7.0,34,2953,UpCnf,2026-06-29T16:18:52+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1025375607
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2953
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 7.0
+RSSI: -99
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: 78584641"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -/-,0,2991,DnUnc,2026-06-29T16:18:51+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1024673570
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2991
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: fcdfee74"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -101/6.2,34,2952,UpCnf,2026-06-29T16:18:50+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1023673570
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2952
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 6.2
+RSSI: -101
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: 910f9177"
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -/-,0,2990,DnUnc,2026-06-29T16:18:49+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1023211441
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2990
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 99911c22"
+24E124445E318071,24E124FFFEFE11C4,868500000,SF7BW125, -101/7.0,3,2951,UpCnf,2026-06-29T16:18:49+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1022211441
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2951
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 7.0
+RSSI: -101
+Power: -
+Payload(b64): BAAB
+Payload(hex): 040001
+JSON: {""gpio_in_2"":1}
+MIC: 5e721ae6"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -/-,0,2989,DnUnc,2026-06-29T16:18:47+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1021586441
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2989
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 969fff5c"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -102/5.8,3,2950,UpCnf,2026-06-29T16:18:47+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1020586441
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2950
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 5.8
+RSSI: -102
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: ea62bbb8"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2988,DnUnc,2026-06-29T16:18:46+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1019796532
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2988
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 2860cb25"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -102/7.5,34,2949,UpCnf,2026-06-29T16:18:45+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1018796532
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2949
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 7.5
+RSSI: -102
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: a9a485a2"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2987,DnUnc,2026-06-29T16:18:44+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1018382421
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2987
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: ef68416b"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -101/8.0,3,2948,UpCnf,2026-06-29T16:18:44+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1017382421
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2948
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 8.0
+RSSI: -101
+Power: -
+Payload(b64): BAAB
+Payload(hex): 040001
+JSON: {""gpio_in_2"":1}
+MIC: 4a6d7a34"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -/-,0,2986,DnUnc,2026-06-29T16:18:41+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1014924541
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2986
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 7c3c0a7b"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -101/7.5,34,2947,UpCnf,2026-06-29T16:18:40+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1013924541
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2947
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 7.5
+RSSI: -101
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: d8972f85"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2985,DnUnc,2026-06-29T16:18:39+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 1013250486
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2985
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 3c907f12"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -102/4.8,3,2946,UpCnf,2026-06-29T16:18:39+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 1012250486
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2946
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 4.8
+RSSI: -102
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: c98778fa"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2984,DnUnc,2026-06-29T16:17:56+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 970319288
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2984
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 787b0095"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -96/11.0,3,2945,UpCnf,2026-06-29T16:17:56+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 969319288
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2945
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 11.0
+RSSI: -96
+Power: -
+Payload(b64): BAAA
+Payload(hex): 040000
+JSON: {""gpio_in_2"":0}
+MIC: 22a90573"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -/-,0,2983,DnUnc,2026-06-29T16:17:55+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 969125488
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2983
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 260b8783"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -95/11.2,34,2944,UpCnf,2026-06-29T16:17:55+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 968125488
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2944
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 11.2
+RSSI: -95
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: e680aa7e"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2982,DnUnc,2026-06-29T16:17:53+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 967252461
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2982
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: 37c38d54"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -97/10.8,34,2943,UpCnf,2026-06-29T16:17:53+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 966252461
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2943
+Port: 86
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 10.8
+RSSI: -97
+Power: -
+Payload(b64): Q1VTVE9NTUVTU0FHRVRFU1RGT1JHUklEQUNUSVZBVElPTg==
+Payload(hex): 435553544f4d4d45535341474554455354464f524752494441435449564154494f4e
+JSON: {""text"":""CUSTOMMESSAGETESTFORGRIDACTIVATION""}
+MIC: 763e6265"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -/-,0,2981,DnUnc,2026-06-29T16:17:52+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 965794890
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2981
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: b379733a"
+24E124445E318071,24E124FFFEFE11C4,868100000,SF7BW125, -97/10.2,3,2942,UpCnf,2026-06-29T16:17:51+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 964794890
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2942
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 10.2
+RSSI: -97
+Power: -
+Payload(b64): BAAB
+Payload(hex): 040001
+JSON: {""gpio_in_2"":1}
+MIC: 5810f287"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -/-,0,2980,DnUnc,2026-06-29T16:17:47+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: false
+Timestamp: 961160303
+Type: DnUnc
+Adr: true
+AdrAcKReq: false
+Ack: true
+Fcnt: 2980
+Port: -
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: -
+RSSI: -
+Power: 16
+Payload(b64): 
+Payload(hex): 
+JSON: 
+MIC: eddfac76"
+24E124445E318071,24E124FFFEFE11C4,868300000,SF7BW125, -94/11.5,3,2942,UpCnf,2026-06-29T16:17:47+02:00,"Dev Addr/Multicast Addr: 0770d40a
+GwEUI: 24E124FFFEFE11C4
+AppEUI: 24E124C0002A0001
+Device EUI/Group Name: 24E124445E318071
+Class Type: Class C
+Immediately: -
+Timestamp: 960160303
+Type: UpCnf
+Adr: false
+AdrAcKReq: false
+Ack: false
+Fcnt: 2942
+Port: 85
+Modulation: LORA
+Bandwidth: 125
+SpreadFactor: 7
+Bitrate: 0
+CodeRate: 4/5
+SNR: 11.5
+RSSI: -94
+Power: -
+Payload(b64): BAAB
+Payload(hex): 040001
+JSON: {""gpio_in_2"":1}
+MIC: 5810f287"
