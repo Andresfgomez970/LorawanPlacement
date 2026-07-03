@@ -6,6 +6,14 @@
   },
   "greenhouse_structure": {
   "description": "Greenhouse corner row identifiers. Layout is top row first, then bottom/down row.",
+  "row_spacing_m": 1.1,
+  "y_reference": {
+    "description": "Cross-row y reference: R1186 is 0.0 m on the left side, and R1355 is 4.0 m on the right side.",
+    "left_center_row": "R1186",
+    "right_center_row": "R1355",
+    "left_center_y_m": 0.0,
+    "right_center_y_m": 4.0
+  },
   "corners": {
     "left_top": "R1006",
     "right_top": "R1540",
