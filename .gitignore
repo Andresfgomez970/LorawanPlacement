@@ -1,1 +1,42 @@
+# Local Python environments
+.conda/
+.venv/
+venv/
+env/
+ENV/
+
+# Python caches and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter local state
+.ipynb_checkpoints/
+.jupyter/
+*.nbconvert.ipynb
+
+# Build/package outputs
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated interactive plot exports
 outputs/interactive_plots/*.html
