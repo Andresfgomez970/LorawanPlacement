@@ -40,3 +40,6 @@ desktop.ini
 
 # Generated interactive plot exports
 outputs/interactive_plots/*.html
+
+# Generated notebook/data products
+outputs/
