@@ -1164,11 +1164,11 @@
       }
     },
     {
-      "run_id": "2026-06-29_R1388_01",
+      "run_id": "2026-06-29_R1386_01",
       "date": "2026-06-29",
-      "structure_id": "R1388",
+      "structure_id": "R1386",
       "occurrence": 1,
-      "source_file_hint": "29-06-r1388",
+      "source_file_hint": "29-06-r1386",
       "ranges": {
         "G1": [
           "15:51:40",
