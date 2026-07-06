@@ -8,6 +8,10 @@
   "description": "Greenhouse corner row identifiers. Layout is top row first, then bottom/down row.",
   "row_spacing_m": 1.1,
   "size_of_corridor_m": 4.0,
+  "gateway_position_m": {
+    "x_m": 3.3,
+    "y_m": 0.0
+  },
   "y_reference": {
     "description": "Cross-row y reference: R1186 and its mirror R1355 are both centered at y = 0.0 m.",
     "left_center_row": "R1186",
