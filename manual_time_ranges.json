@@ -6,7 +6,7 @@
   },
   "greenhouse_structure": {
   "description": "Greenhouse corner row identifiers. Layout is top row first, then bottom/down row.",
-  "row_spacing_m": 1.1,
+  "row_spacing_m": 1.65,
   "size_of_corridor_m": 4.0,
   "gateway_position_m": {
     "x_m": 3.3,
@@ -39,8 +39,8 @@
   "heatmap_region_m": {
     "x_min": -162.0,
     "x_max": 162.0,
-    "y_min": -92.4,
-    "y_max": 203.5
+    "y_min": -138.6,
+    "y_max": 305.25
   },
   "mirror_structures": [
     [
