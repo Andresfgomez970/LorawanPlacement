@@ -1,0 +1,4 @@
+gateway_number,candidate_id,x_m,y_m,covered_fraction,covered_percent,marginal_fraction_gain,marginal_percent_gain,source_snr_scenario,snr_threshold_db,ellipse_x_radius_m,ellipse_y_radius_m,candidate_spacing_m,candidate_edge_margin_m,evaluation_grid_res_m,stopped_after_no_added_area
+1,161,-2.0,41.400000000000006,0.7857437618641503,78.57437618641502,0.7857437618641503,78.57437618641502,full_clean,-3.0,452.4829024837816,179.1616274468722,20.0,0.0,2.0,True
+2,246,-2.0,141.4,0.9870422845195191,98.70422845195192,0.20129852265536885,20.129852265536886,full_clean,-3.0,452.4829024837816,179.1616274468722,20.0,0.0,2.0,True
+3,0,-162.0,-138.6,1.0,100.0,0.012957715480480858,1.2957715480480858,full_clean,-3.0,452.4829024837816,179.1616274468722,20.0,0.0,2.0,True
